@@ -14,8 +14,7 @@ I like to learn about code quality and software architecture in order to improve
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoorocha&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me out
-<p>
-  <a href="https://www.linkedin.com/in/brunoorochas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-brunoorochas-blue?style=flat-square&logo=linkedin"></a> 
-  <a href="https://www.twitter.com/brunoorocha/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-brunoorocha-blue?style=flat-square&logo=twitter"></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunoorochas-blue)](https://www.linkedin.com/in/brunoorochas/)
+[![Gmail](https://img.shields.io/badge/Gmail-mail.brunorocha%40gmail.com-red)](mailto:mail.brunorocha@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-imbrunorocha-blue)](https://t.me/imbrunorocha)
+[![Telegram](https://img.shields.io/badge/Twitter-brunoorocha-blue)](https://www.twitter.com/brunoorocha)
